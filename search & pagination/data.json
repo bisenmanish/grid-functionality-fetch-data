@@ -1,0 +1,102 @@
+[
+    
+{
+    "pic":"/images/smart-TV.jpg",
+    "name":"Smart TV",
+    "price":"$4500",
+    "dprice":"$4800"
+},
+{
+    "pic":"/images/girltop2.jpg",
+    "name":"Girl Top",
+    "price":"$600",
+    "dprice":"$700"
+},
+{
+    "pic":"/images/headphon1.jpg",
+    "name":"HeadPhone",
+    "price":"$400",
+    "dprice":"$1100"
+},
+{
+    "pic":"/images/headphone2.jpg",
+    "name":"HeadPhone",
+    "price":"$600",
+    "dprice":"$700"
+},
+{
+    "pic":"/images/laptop-1.jpg",
+    "name":"Laptop",
+    "price":"$3400",
+    "dprice":"$4100"
+},
+{
+    "pic":"/images/laptop-2.jpg",
+    "name":"Laptop",
+    "price":"$4800",
+    "dprice":"$5800"
+},
+{
+    "pic":"/images/mobile1.jpg",
+    "name":"Mobile",
+    "price":"$2500",
+    "dprice":"$2800"
+},
+{
+    "pic":"/images/mobile2.jpg",
+    "name":"Mobile",
+    "price":"$2300",
+    "dprice":"$2600"
+},
+{
+    "pic":"/images/shirt-2.jpg",
+    "name":"shirt",
+    "price":"$500",
+    "dprice":"$800"
+},
+{
+    "pic":"/images/shirt1.jpg",
+    "name":"Casual Shirt",
+    "price":"$500",
+    "dprice":"$700"
+},
+{
+    "pic":"/images/T-shirt-1.jpg",
+    "name":"Polo shirt",
+    "price":"$1500",
+    "dprice":"$1800"
+},
+{
+    "pic":"/images/T-shirt-2.jpg",
+    "name":"Tshirt",
+    "price":"$800",
+    "dprice":"$900"
+},
+{
+    "pic":"/images/smart-watch.jpg",
+    "name":"Smart Watch",
+    "price":"$1800",
+    "dprice":"$2500"
+},
+{
+    "pic":"/images/girl-top1.jpg",
+    "name":"GirlTop",
+    "price":"$400",
+    "dprice":"$500"
+},
+{
+    "pic":"/images/smartwtach1.jpg",
+    "name":"Smart Watch",
+    "price":"$1400",
+    "dprice":"$1500"
+},
+{
+    "pic":"/images/TV.jpg",
+    "name":"TV",
+    "price":"$3400",
+    "dprice":"$4500"
+}
+
+
+
+]

@@ -1,0 +1,104 @@
+
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+
+    background-color: rgba(244, 242, 245, 0.911);
+}
+
+.main-section{
+
+    width: 1200px;
+    height: 950px;
+    margin: 30px auto;
+
+}
+.top-header{
+    width: 800px;
+    display: flex;
+    margin: 0px auto;
+}
+
+.title{
+   font-size: 2rem;
+    font-weight: 600;
+    margin-top: 40px;
+    color:rgba(88, 145, 107, 0.736);
+}
+
+.line{
+
+    
+    height: 5px;
+    width: 23%;
+    background-color: rgb(135, 221, 135);
+    display: inline-block;
+    margin-top: 5rem;
+    margin-left: -11rem;
+}
+#serach-bar{
+
+    width: 100%;
+    max-width: 350px;
+    margin-top: 40px;
+     padding: 5px; 
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.9);
+    border-radius: 10px;
+    margin-left: 12rem;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    text-transform: capitalize;
+    text-indent: 20px;
+}
+::placeholder{
+
+    padding: 5px;
+    outline: none;
+    
+
+}
+.container{
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    margin-top: 80px;
+    gap: 25px;
+}
+.subcontainer{
+ width: 100%;
+ text-align: center;
+ box-shadow: 0 0 5px rgba(0, 0, 0, 0.88);
+
+
+}
+.subcontainer img{
+
+    width: 180px;
+    height: 130px;
+    margin-top: 8px;
+    object-fit: cover;
+}
+
+.subcontainer h2{
+
+    margin: 0;
+    font-size: 1rem;
+    
+    
+}
+
+.subcontainer h4{
+    font-size: 0.85rem;
+}
+del{
+    font-size: 13px;
+    color: red;
+}
